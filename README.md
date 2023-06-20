@@ -10,7 +10,8 @@ Konfigurasi :
 
 Dokumentasi :
 - [Dokumentasi API](https://documenter.getpostman.com/view/598393/2s93z3f5Zv#ca480ab2-3db2-4598-8842-0e1700db0b72).
-- [Database Schema](https://laravel.com/docs/container).
+
+- [Schema Database](https://drive.google.com/file/d/1KRQd6m3PP_1LCyp7-XfuSVxDB2rNQ3Si/view?usp=sharing).
  
 
 
